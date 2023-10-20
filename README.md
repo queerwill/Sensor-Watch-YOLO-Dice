@@ -1,4 +1,56 @@
-Try out the demo on the emulator:
+RULES
+-----
+
+The game consists of a number of rounds. In each round, a player gets three rolls of the dice, although they can choose to end their turn after one or two rolls. After the first roll the player can save any dice they want and re-roll the other dice. This procedure is repeated after the second roll. The player has complete choice as to which dice to roll. It is possible to re-roll both dice that were or were not rolled before.[5]
+
+The YOLO scorecard contains 13 different category boxes and in each round, after the third roll, the player must choose one of these categories. The score entered in the box depends on how well the five dice match the scoring rule for the category. Details of the scoring rules for each category are given below. As an example, one of the categories is called Three of a Kind. The scoring rule for this category means that a player only scores if at least three of the five dice are the same value. The game is completed after 13 rounds by each player, with each of the 13 boxes filled. The total score is calculated by summing all thirteen boxes, together with any bonuses.
+
+The YOLO  scorecard contains 13 scoring boxes divided into upper and lower sections.
+
+Upper section
+-------------
+
+In the upper section there are six boxes. The score in each of these boxes is determined by adding the total number of dice matching that box.
+
+| **Category** | **Description** | **Score**                         | **EXAMPLE**    | 
+| :-----:      | :---------:     | :-------------:                   | :-----------:  |
+| **ACES**     | Any combination | The sum of dice with the number 1 | 11134 scores 3 |
+| **TWOS**     | Any combination | The sum of dice with the number 2 | 22256 scores 6 |
+| **THREES**   | Any combination | The sum of dice with the number 3 | 33334 scores 12| 
+| **FOURS**    | Any combination | The sum of dice with the number 4 | 44555 scores 8 |
+| **FIVES**    | Any combination | The sum of dice with the number 5 | 11225 scores 5 |
+| **SIXES**    | Any combination | The sum of dice with the number 6 | 33666 scores 18| 
+
+
+Category 	Description 	Score 	Example
+Aces 	Any combination 	The sum of dice with the number 1 	11134 scores 3
+Twos 	Any combination 	The sum of dice with the number 2 	22256 scores 6
+Threes 	Any combination 	The sum of dice with the number 3 	33334 scores 12
+Fours 	Any combination 	The sum of dice with the number 4 	44555 scores 8
+Fives 	Any combination 	The sum of dice with the number 5 	11225 scores 5
+Sixes 	Any combination 	The sum of dice with the number 6 	33666 scores 18
+
+If a player scores a total of 63 or more points in these six boxes, a bonus of 24 is added to the bonus score and the player earns a bonus roll at the end of the game.
+
+Lower section
+-------------
+
+The lower section contains a number of poker-themed categories with specific point values:
+
+Category 	Description 	Score 	Example
+Three Of A Kind 	At least three dice the same 	Sum of all dice 	23444 scores 17
+Four Of A Kind 	At least four dice the same 	Sum of all dice 	45555 scores 24
+Full House 	Three of one number and two of another 	25 	22555 scores 25
+Small Straight 	Four sequential dice
+(1-2-3-4, 2-3-4-5, or 3-4-5-6) 	30 	13456 scores 30
+Large Straight 	Five sequential dice
+(1-2-3-4-5 or 2-3-4-5-6) 	40 	12345 scores 40
+Yahtzee 	All five dice the same 	50 	33333 scores 50
+Chance 	Any combination 	Sum of all dice 	11345 scores 14
+
+Some players count five of the same number (called a "Yahtzee") as being a valid Full House. However, the official rule is that a Full House is "three of one number and two of another".[5] Small Straight and Large Straight are sometimes called Low and High, Short and Long Straight, or Little and Big Straights.[5]
+
+If a category is chosen but the dice do not match the requirements of the category the player scores 0 in that category. Some combinations offer the player a choice as to which category to score them under; e.g., a full house could be scored in the Full House, the Three-Of-A-Kind, or the Chance categories. The Chance category is often used for a turn that will not score well in any other category.[5] Try out the demo on the emulator:
 
 [PLAY YOLO](https://queerwill.github.io/)
 
