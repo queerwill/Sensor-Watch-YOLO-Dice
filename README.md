@@ -4,11 +4,11 @@ Controls
 There are three main game screens 
 
 
-| **BUTTON (HOLD)** | **ROLL MODE** | **SCORE MODE**  |**MENU MODE**   |
-| :-----:      | :---------:     | :-------------:    | :-----------:  |
-| **LIGHT**  | Move selection |Move Selection|  Go Home|
-| **MODE**   | Roll dice (Jump to Menu) | Go back (Jump to Menu) |  Go Back |
-| **ALARM**  | Hold/unhold (Jump to Score) | Select |  (hold to reset) |
+| **BUTTON (HOLD)** | **LIGHT**      | **MODE**                 | **ALARM**      |
+| :-----:           | :---------:    | :-------:                | :-----------:  |
+| **Roll Screen**   | Move Selection | Roll Dice (Jump to Menu) | Hold/Unhold (Jump to Score) |
+| **Score Screen**  | Move Selection | Go Back (Jump to Menu)   | Select |
+| **Menu Screen**   | Go Home        | Go Back                  | (Hold to reset) |
 
 
 
