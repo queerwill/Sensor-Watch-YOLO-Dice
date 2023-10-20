@@ -1,3 +1,7 @@
+
+[PLAY YOLO](https://queerwill.github.io/)
+----------
+
 Controls
 --------
 
