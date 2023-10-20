@@ -2,6 +2,8 @@ PLAY YOLO
 ----------
 Try it out on the [emulator!](https://queerwill.github.io/)
 
+Use keyboard key A,L,M for Alarm, Light, and Mode.
+
 Controls
 --------
 
