@@ -1,3 +1,9 @@
+Try out the demo on the emulator:
+
+[PLAY YOLO](https://queerwill.github.io/)
+
+
+
 The Sensor Watch
 ================
 
