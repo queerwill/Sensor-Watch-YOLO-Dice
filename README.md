@@ -3,20 +3,23 @@ Controls
 
 There are three main game screens (HOLD BUTTON actions):
 
-ROLL SCREEN \n
-LIGHT: Move selection
-MODE: Roll dice (Jump to Menu)
-ALARM: Hold/unhold (Jump to Score)
+ROLL SCREEN 
 
-SCORE SCREEN /n
-LIGHT: Move Selection
-MODE: Go back (Jump to Menu)
-ALARM: Select
+|LIGHT| Move selection |
+|MODE| Roll dice (Jump to Menu) |
+|ALARM| Hold/unhold (Jump to Score) |
 
-MENU SCREEN \n
-LIGHT: Go Home
-MODE:  Go Back
-ALARM: (hold to reset)
+SCORE SCREEN 
+
+|LIGHT| Move Selection|
+|MODE| Go back (Jump to Menu)|
+|ALARM| Select|
+
+MENU SCREEN 
+
+|LIGHT| Go Home|
+|MODE| Go Back |
+|ALARM| (hold to reset) |
 
 RULES
 -----
