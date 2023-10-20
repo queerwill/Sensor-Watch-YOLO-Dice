@@ -1,7 +1,7 @@
 RULES
 -----
 
-The game consists of a number of rounds. In each round, a player gets three rolls of the dice, although they can choose to end their turn after one or two rolls. After the first roll the player can save any dice they want and re-roll the other dice. This procedure is repeated after the second roll. The player has complete choice as to which dice to roll. It is possible to re-roll both dice that were or were not rolled before.[5]
+The game consists of a number of rounds. In each round, a player gets three rolls of the dice, although they can choose to end their turn after one or two rolls. After the first roll the player can save any dice they want and re-roll the other dice. This procedure is repeated after the second roll. The player has complete choice as to which dice to roll. It is possible to re-roll both dice that were or were not rolled before.
 
 The YOLO scorecard contains 13 different category boxes and in each round, after the third roll, the player must choose one of these categories. The score entered in the box depends on how well the five dice match the scoring rule for the category. Details of the scoring rules for each category are given below. As an example, one of the categories is called Set of Three. The scoring rule for this category means that a player only scores if at least three of the five dice are the same value. The game is completed after 13 rounds by each player, with each of the 13 boxes filled. The total score is calculated by summing all thirteen boxes, together with any bonuses.
 
@@ -44,20 +44,11 @@ Lower section
 | **LONG RUN**     | Five sequential dice         | 40                                | 12345 scores 40 |
 | **CHOICE**       | All five dice the same       | Sum of all dice                   | 11345 scores 14 | 
 | **YOLO**         | Any combination              | 50 | 33333 scores 50              | 
-Category 	Description 	Score 	Example
-Three Of A Kind 	At least three dice the same 	Sum of all dice 	23444 scores 17
-Four Of A Kind 	At least four dice the same 	Sum of all dice 	45555 scores 24
-Full House 	Three of one number and two of another 	25 	22555 scores 25
-Small Straight 	Four sequential dice
-(1-2-3-4, 2-3-4-5, or 3-4-5-6) 	30 	13456 scores 30
-Large Straight 	Five sequential dice
-(1-2-3-4-5 or 2-3-4-5-6) 	40 	12345 scores 40
-Yahtzee 	All five dice the same 	50 	33333 scores 50
-Chance 	Any combination 	Sum of all dice 	11345 scores 14
 
-Some players count five of the same number (called a "Yahtzee") as being a valid Full House. However, the official rule is that a Full House is "three of one number and two of another".[5] Small Straight and Large Straight are sometimes called Low and High, Short and Long Straight, or Little and Big Straights.[5]
 
-If a category is chosen but the dice do not match the requirements of the category the player scores 0 in that category. Some combinations offer the player a choice as to which category to score them under; e.g., a full house could be scored in the Full House, the Three-Of-A-Kind, or the Chance categories. The Chance category is often used for a turn that will not score well in any other category.[5] Try out the demo on the emulator:
+If a category is chosen but the dice do not match the requirements of the category the player scores 0 in that category. 
+
+Try out the demo on the emulator:
 
 [PLAY YOLO](https://queerwill.github.io/)
 
