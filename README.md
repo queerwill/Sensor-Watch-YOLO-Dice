@@ -3,7 +3,7 @@ RULES
 
 The game consists of a number of rounds. In each round, a player gets three rolls of the dice, although they can choose to end their turn after one or two rolls. After the first roll the player can save any dice they want and re-roll the other dice. This procedure is repeated after the second roll. The player has complete choice as to which dice to roll. It is possible to re-roll both dice that were or were not rolled before.[5]
 
-The YOLO scorecard contains 13 different category boxes and in each round, after the third roll, the player must choose one of these categories. The score entered in the box depends on how well the five dice match the scoring rule for the category. Details of the scoring rules for each category are given below. As an example, one of the categories is called Three of a Kind. The scoring rule for this category means that a player only scores if at least three of the five dice are the same value. The game is completed after 13 rounds by each player, with each of the 13 boxes filled. The total score is calculated by summing all thirteen boxes, together with any bonuses.
+The YOLO scorecard contains 13 different category boxes and in each round, after the third roll, the player must choose one of these categories. The score entered in the box depends on how well the five dice match the scoring rule for the category. Details of the scoring rules for each category are given below. As an example, one of the categories is called Set of Three. The scoring rule for this category means that a player only scores if at least three of the five dice are the same value. The game is completed after 13 rounds by each player, with each of the 13 boxes filled. The total score is calculated by summing all thirteen boxes, together with any bonuses.
 
 The YOLO  scorecard contains 13 scoring boxes divided into upper and lower sections.
 
@@ -12,7 +12,7 @@ Upper section
 
 In the upper section there are six boxes. The score in each of these boxes is determined by adding the total number of dice matching that box.
 
-| **Category** | **Description** | **Score**                         | **EXAMPLE**    | 
+| **Category** | **Description** | **Score**                         | **Example**    | 
 | :-----:      | :---------:     | :-------------:                   | :-----------:  |
 | **ACES**     | Any combination | The sum of dice with the number 1 | 11134 scores 3 |
 | **TWOS**     | Any combination | The sum of dice with the number 2 | 22256 scores 6 |
@@ -35,8 +35,15 @@ If a player scores a total of 63 or more points in these six boxes, a bonus of 2
 Lower section
 -------------
 
-The lower section contains a number of poker-themed categories with specific point values:
-
+| **Category**     | **Description**              | **Score**                         | **Example**    | 
+| :-----:          | :---------:                  | :-------------:                   | :-----------:  |
+| **SET OF THREE** | At least three dice the same | Sum of all dice                   | 23444 scores 17 |
+| **SET OF FOUR**  | At least four dice the same  | Sum of all dice                   | 45555 scores 24 |
+| **FULL HOUSE**   | Three of one number and two of another | 25                      | 22555 scores 25| 
+| **SHORT RUN**    | Four sequential dice         | 30                                | 13456 scores 30 |
+| **LONG RUN**     | Five sequential dice         | 40                                | 12345 scores 40 |
+| **CHOICE**       | All five dice the same       | Sum of all dice                   | 11345 scores 14 | 
+| **YOLO**         | Any combination              | 50 | 33333 scores 50              | 
 Category 	Description 	Score 	Example
 Three Of A Kind 	At least three dice the same 	Sum of all dice 	23444 scores 17
 Four Of A Kind 	At least four dice the same 	Sum of all dice 	45555 scores 24
