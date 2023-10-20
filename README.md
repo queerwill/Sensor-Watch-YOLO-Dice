@@ -1,6 +1,6 @@
-
-[PLAY YOLO](https://queerwill.github.io/)
+PLAY YOLO
 ----------
+Try it out on the [emulator!](https://queerwill.github.io/)
 
 Controls
 --------
